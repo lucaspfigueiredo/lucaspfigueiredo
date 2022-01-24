@@ -7,7 +7,7 @@
 </div>
 
 
-Currently finishing my degree in civil engineering and very interested and excited about data. I was introduced to python on an activity in my previous internship with real estate data, since then, I have studied Python, data science and data engineering concepts throughout bootcamps and courses.
+Currently finishing my degree in civil engineering and very interested and excited about data. I was introduced to Python on an activity in my previous internship with real estate data, since then, I have studied Python, data science and data engineering concepts throughout bootcamps and courses.
   
 I'm currently working on my undergraduate thesis, where I can develop a data archicteture and use some of the best tools to conclude my thesis about real estate data.
 
